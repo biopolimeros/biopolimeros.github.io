@@ -1,0 +1,153 @@
+.fundo{
+
+    background-color: #F7F7F7;
+}
+
+.margemTexto{
+    padding-top: 55px;
+    padding-bottom:55px;
+}
+
+.textoGrande{
+    
+    font-size: 30px;
+}
+
+.pdgCoisas{
+    
+    padding-left: 100px;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2.5px;
+  }
+
+.linhaTxt{
+    
+    text-decoration: none;
+    position: relative;
+     
+}
+
+  .linhaTxt:after {
+    content: '';
+
+    width: 310px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+    color: lightslategray;
+    border-width: 0 0 3px;
+    border-style: outset;
+}
+
+.linhaTxt2{
+    
+    text-decoration: none;
+    position: relative;
+     
+}
+
+  .linhaTxt2:after {
+    content: '';
+
+    width: 145px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+    color: lightslategray;
+    border-width: 0 0 3px;
+    border-style: outset;
+}
+
+.linhaTxt3{
+    
+    text-decoration: none;
+    position: relative;
+     
+}
+
+  .linhaTxt3:after {
+    content: '';
+
+    width: 135px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+    color: lightslategray;
+    border-width: 0 0 3px;
+    border-style: outset;
+}
+
+.linhaTxt4{
+    
+    text-decoration: none;
+    position: relative;
+     
+}
+
+  .linhaTxt4:after {
+    content: '';
+
+    width: 200px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+    color: lightslategray;
+    border-width: 0 0 3px;
+    border-style: outset;
+}
+
+.linhaTxt5{
+    
+    text-decoration: none;
+    position: relative;
+     
+}
+
+  .linhaTxt5:after {
+    content: '';
+
+    width: 115px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+    color: lightslategray;
+    border-width: 0 0 3px;
+    border-style: outset;
+}
+
+.linhaTxt6{
+    
+    text-decoration: none;
+    position: relative;
+     
+}
+
+  .linhaTxt6:after {
+    content: '';
+
+    width: 165px;
+    position: absolute;
+    left: 0;
+    bottom: 2px;
+    color: lightslategray;
+    border-width: 0 0 3px;
+    border-style: outset;
+}
+
+
+
+.txt{
+    padding-bottom: 15px;
+}
